@@ -8,4 +8,4 @@
   3. T3 4 pontos   
  }
 # Prova prática
- Programa no máximo em dupla valendo 1o pontos
+ Programa no máximo em dupla valendo 10 pontos
